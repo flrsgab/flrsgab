@@ -1,5 +1,5 @@
 Hi there! 👋
-My name is flrsgab, and I'm a big fan of football, gaming, and data science. I'm currently learning machine learning algorithms and applying them to various datasets to gain insights and make predictions.
+My name is Gab, and I'm a big fan of football, gaming, and data science. I'm currently learning machine learning algorithms and applying them to various datasets to gain insights and make predictions.
 
 🚀 What I'm working on
 Right now, I'm focusing on improving my understanding of various machine learning algorithms, such as linear regression, decision trees, and neural networks. I'm also working on personal projects that involve analyzing sports data and building predictive models.
